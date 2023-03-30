@@ -1,0 +1,28 @@
+
+body{
+  overflow-x: hidden;
+}
+.head-nav {
+  background-color: silver;
+  font-size: 18px;
+  font-weight: bold;
+}
+.head-nav a:hover {
+  border-bottom: 2px solid white;
+  color: red;
+}
+
+.head-nav img {
+  margin-left: 30px;
+}
+
+.navbar-nav {
+  margin-left: 40%;
+  gap: 60px;
+}
+.btn-1 {
+  border-radius: 25px;
+  height: 40px;
+  width: 140px;
+  font-weight: bold;
+}

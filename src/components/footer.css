@@ -1,0 +1,22 @@
+body{
+  overflow-x: hidden;
+}
+.least {
+  background-color: silver;
+}
+.head{
+    margin-left: 20px;
+
+}
+.side1,
+.side2 {
+  margin-top: 30px;
+}
+/* .side1 {
+  margin-left: 25px;
+} */
+span {
+  color: blue;
+  text-align: center;
+  padding: 20px;
+}
